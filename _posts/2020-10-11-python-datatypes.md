@@ -51,7 +51,6 @@ my_set = {1,2,3}                        # Set
 my_bool = True                          # Boolean
 my_none = None                          # NoneType
 
-
 print(type(my_str))
 print(type(my_bytstr))
 print(type(my_int))
@@ -63,6 +62,8 @@ print(type(my_set))
 print(type(my_bool))
 print(type(my_none))
 ```
+Output:
+```
 <class 'str'>
 <class 'bytes'>
 <class 'int'>
@@ -73,6 +74,7 @@ print(type(my_none))
 <class 'set'>
 <class 'bool'>
 <class 'NoneType'>
+```
 ---
 Happy Learning! Your feedback would be appreciated!<br>
 [onlypython.py](https://only-python.github.io/)
