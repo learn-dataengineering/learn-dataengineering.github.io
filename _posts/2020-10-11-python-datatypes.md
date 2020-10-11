@@ -4,7 +4,7 @@ date: 2020-10-11
 ---
 In Python most common buit-in types are numeric, sequences & mappings(key-pair). 
 
-![Data Types](https://raw.githubusercontent.com/only-python/only-python.github.io/gh-pages/images/python-datatypes.png "Datatypes")
+![Data Types](https://raw.githubusercontent.com/only-python/only-python.github.io/gh-pages/images/pythondatatypes.png "Datatypes")
 
 Here are the list of Python buit-in types:
 
