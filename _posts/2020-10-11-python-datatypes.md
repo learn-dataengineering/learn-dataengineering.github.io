@@ -12,18 +12,23 @@ Numeric Types
 + int
 + float
 + complex
-Sequence Types:
+
+Sequence Types
 + list
 + tuple
 + range
 + str
-Binary Sequence Types:
+
+Binary Sequence Types
 + bytes
 + bytearray
+
 Mapping (HashMap Key-Pair)
 + dict
+
 Set Types
 + set
+
 Other Built-In Types
 + bool
 + None
