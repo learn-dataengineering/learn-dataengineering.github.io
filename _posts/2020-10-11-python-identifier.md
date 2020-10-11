@@ -99,25 +99,9 @@ print(devanagari_data[:5])
 
 [['Lo', 'ऄ'], ['Lo', 'अ'], ['Lo', 'आ'], ['Lo', 'इ'], ['Lo', 'ई']]
 ```
-See below screenshot of some non-ASCII identifiers used to create a simple class:
+See below example of non-ASCII identifiers used:
 ```python
-class ॐ():
-    मंत्र = "ॐ नमः शिवाय" # Om Namaḥ Śivāya
-    def अक्षर(self):
-        # 'Na' 'Ma' 'Śi' 'Vā' and 'Ya'
-        return ["न", "मः", "शि", "वा", "य"]
-    def अर्थ(self):
-        # I bow down to Lord Shiva
-        return "भगवान शिव को नमस्कार"
-
-print(ॐ.मंत्र)
-उपयोग = ॐ()
-print(उपयोग.अक्षर())
-print(उपयोग.अर्थ())
-
-ॐ नमः शिवाय
-['न', 'मः', 'शि', 'वा', 'य']
-भगवान शिव को नमस्कार
+मंत्र = "ॐ नमः शिवाय" # Om Namaḥ Śivāya
 ```
 ---
 Happy Learning! Your feedback would be appreciated!<br>
