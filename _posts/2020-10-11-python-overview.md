@@ -1,6 +1,5 @@
 ---
 title: Python Overview
-date: 2020-10-11
 ---
 
 ### What is Python?
