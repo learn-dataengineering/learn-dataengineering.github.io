@@ -16,7 +16,6 @@ Variable-Name = Value
 Variables basically inherit type from current value. Type determine what operations are allowed.
 ```python
 >>> x = 1
->>> interest = 1000.25
 >>> x = 'Python'
 ```
 + We have assigned value 1 to variable x. Variable x is created
