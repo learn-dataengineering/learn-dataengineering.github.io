@@ -62,7 +62,7 @@ print(type(my_tuple))
 print(type(my_set))
 print(type(my_bool))
 print(type(my_none))
-
+```
 <class 'str'>
 <class 'bytes'>
 <class 'int'>
@@ -73,7 +73,6 @@ print(type(my_none))
 <class 'set'>
 <class 'bool'>
 <class 'NoneType'>
-```
 ---
 Happy Learning! Your feedback would be appreciated!<br>
 [onlypython.py](https://only-python.github.io/)
