@@ -74,7 +74,6 @@ print(type(my_none))
 <class 'bool'>
 <class 'NoneType'>
 ```
-
 ---
 Happy Learning! Your feedback would be appreciated!<br>
 [onlypython.py](https://only-python.github.io/)
