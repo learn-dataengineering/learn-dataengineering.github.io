@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About
 ---
 Interesting Python3 🐍 basic code snippets, tricks & quiz!
 
