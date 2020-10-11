@@ -1,5 +1,5 @@
 ---
-title: Python Identifiers
+title: Python Identifiers ASCII & Non-ASCII
 date: 2020-10-11
 ---
 
@@ -30,7 +30,10 @@ Identifiers i.e. names used to identify a variables, function, class, methods et
 + Must start with a letter or the underscore character. Cannot start with a number.
 + Can only contain alpha-numeric characters and underscores (A-z, 0-9, & _ ). Within the range of 0-127 i.e. ASCII 
 + Variable names are case-sensitive.
-+ Reserved words i.e.keyword cannot be used as regular identifier. To get the list of these reserved words i.e. keywords. We can use keyword module.
++ Reserved words i.e.keyword cannot be used as regular identifier. 
+
+To get the list of these reserved words i.e. keywords. We can use keyword module.
+
 ```python
 >>> import keyword
 >>> keyword.kwlist #list of all keywords
@@ -38,9 +41,10 @@ Identifiers i.e. names used to identify a variables, function, class, methods et
 ```
 To check if string is valid identifier or not, we can use isidentifier method of str class.
 ```python
->>> import keyword
->>> keyword.kwlist #list of all keywords
->>> keyword.iskeyword('def')  #check if given string is reserved word
+>>> 'lv_status'.isidentifier()
+True
+>>> '5_status'.isidentifier()
+False
 ```
 To check if the string is valid ascii or not: user method 'isascii' of 'str' - return Boolean. Or use built-in function ascii - which returns a string containing a printable representation of an object. It escapes the non-ASCII characters in the string using \x, \u or \U escapes.
 
