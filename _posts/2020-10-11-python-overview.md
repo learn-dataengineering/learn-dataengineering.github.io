@@ -18,7 +18,7 @@ date: 2020-10-11
 
 You can install latest Python from this website – [python.org](https://www.python.org/). After installation you can check the Python Version using Command Prompt.
 
-```cmd
+```bash
 python -V 
 ```
 ---
