@@ -2,8 +2,6 @@
 title: Python Overview
 date: 2020-10-11
 ---
-Python Overview 
-======
 
 ### What is Python?
 
@@ -18,12 +16,10 @@ Python Overview
 
 >Python is fully-functional programming language that can do almost anything.
 
-You can install latest Python from this website – [python.org](https://www.python.org/)
+You can install latest Python from this website – [python.org](https://www.python.org/). After installation you can check the Python Version using Command Prompt.
 
-After installation you can check the Python Version using Command Prompt.
-
-```python
-print("Hello World!")
+```cmd
+python -V 
 ```
 ---
 Happy Learning! Your feedback would be appreciated!
