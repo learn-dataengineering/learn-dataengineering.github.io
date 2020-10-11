@@ -101,7 +101,7 @@ print(devanagari_data[:5])
 ```
 See below example of non-ASCII identifiers used:
 ```python
-मंत्र = "ॐ नमः शिवाय" # Om Namaḥ Śivāya
+ॐ = "ॐ नमः शिवाय" # Om Namaḥ Śivāya
 ```
 ---
 Happy Learning! Your feedback would be appreciated!<br>
