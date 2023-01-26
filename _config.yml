@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
-title:            "onlypython.py"
-description:      "Python Learning"
-url:              https://only-python.github.io # Site url, without a slash at the end.
+title:            "learn-dataengineering"
+description:      "All About Data Engineering"
+url:              https://learn-dataengineering.github.io # Site url, without a slash at the end.
 signoff:          "onlypython" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
