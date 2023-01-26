@@ -1,6 +1,6 @@
 ---
 title: About
 ---
-Interesting Python3 🐍 basic code snippets, tricks & quiz!
+All about Data Engineering! 
 
-Find me on [GitHub](https://github.com/only-python) or [Twitter](https://twitter.com/onlypythonPY) or [Instagram](https://www.instagram.com/onlypython.py/).
+Find me on [GitHub](https://github.com/learn-dataengineering) or [Instagram](https://www.instagram.com/learn-dataengineering/).
